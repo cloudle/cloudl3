@@ -14,6 +14,10 @@ if (Meteor.isClient) {
       Session.set('counter', Session.get('counter') + 1);
     }
   });
+
+  Meteor.startup(function(){
+    React.render(<Home />, document.getElementById("render-target"));
+  });
 }
 
 if (Meteor.isServer) {

@@ -1,0 +1,2 @@
+@Module 'Wings.Store',
+  Create: ->

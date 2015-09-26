@@ -21,7 +21,6 @@ cfs:collection@0.5.5
 cfs:collection-filters@0.2.4
 cfs:data-man@0.0.6
 cfs:file@0.1.17
-cfs:graphicsmagick@0.0.18
 cfs:gridfs@0.0.33
 cfs:http-methods@0.0.30
 cfs:http-publish@0.0.13
@@ -34,6 +33,7 @@ cfs:tempstore@0.1.5
 cfs:upload-http@0.0.20
 cfs:worker@0.1.4
 check@1.0.6
+cloudle:wings@2.0.1
 coffeescript@1.0.9
 cosmos:browserify@0.4.0
 dburles:mongo-collection-instances@0.3.4
@@ -67,6 +67,7 @@ localstorage@1.0.5
 logging@1.0.8
 meteor@1.1.7
 meteor-base@1.0.1
+meteorflux:dispatcher@1.0.4
 meteorhacks:async@1.0.0
 meteorhacks:cluster@1.6.9
 meteorhacks:npm@1.5.0
@@ -83,6 +84,7 @@ mquandalle:jade-compiler@0.4.3
 mquandalle:stylus@1.1.1
 msavin:mongol@1.1.5
 npm-bcrypt@0.7.8_2
+npm-container@1.2.0
 npm-mongo@1.4.39_1
 observe-sequence@1.0.7
 ordered-dict@1.0.4
@@ -115,3 +117,4 @@ underscore@1.0.4
 url@1.0.5
 webapp@1.2.2
 webapp-hashing@1.0.5
+wings-icon@1.0.0
