@@ -1,1 +1,1 @@
-@Episode = Meteor.Collection('episodes')
+@Episode = new Meteor.Collection('episodes')

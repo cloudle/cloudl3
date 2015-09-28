@@ -41,3 +41,4 @@ meteorhacks:npm
 meteorhacks:cluster
 
 npm-container
+kadira:flow-router

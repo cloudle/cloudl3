@@ -24,10 +24,10 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/dburles_mongo-collection-instances/0.3.4/web.browser/packages/dburles_mongo-collection-instances.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_collection-filters/0.2.4/web.browser/packages/cfs_collection-filters.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_session-json/0.1.7/web.browser/packages/gwendall_session-json.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cosmos_browserify/0.4.0/web.browser/packages/cosmos_browserify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_data-man/0.0.6/web.browser/packages/cfs_data-man.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/lai_collection-extensions/0.1.4/web.browser/packages/lai_collection-extensions.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_file/0.1.17/web.browser/packages/cfs_file.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cosmos_browserify/0.5.0/web.browser/packages/cosmos_browserify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteorflux_dispatcher/1.0.4/web.browser/packages/meteorflux_dispatcher.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteorhacks_async/1.0.0/web.browser/packages/meteorhacks_async.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_gridfs/0.0.33/web.browser/packages/cfs_gridfs.js" />
@@ -61,10 +61,10 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/dburles_mongo-collection-instances/0.3.4/web.browser/packages/dburles_mongo-collection-instances.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_collection-filters/0.2.4/web.browser/packages/cfs_collection-filters.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_session-json/0.1.7/web.browser/packages/gwendall_session-json.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cosmos_browserify/0.4.0/web.browser/packages/cosmos_browserify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_data-man/0.0.6/web.browser/packages/cfs_data-man.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/lai_collection-extensions/0.1.4/web.browser/packages/lai_collection-extensions.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_file/0.1.17/web.browser/packages/cfs_file.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cosmos_browserify/0.5.0/web.browser/packages/cosmos_browserify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteorflux_dispatcher/1.0.4/web.browser/packages/meteorflux_dispatcher.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteorhacks_async/1.0.0/web.browser/packages/meteorhacks_async.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/cfs_gridfs/0.0.33/web.browser/packages/cfs_gridfs.js" />
