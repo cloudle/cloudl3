@@ -16,7 +16,7 @@ if (Meteor.isClient) {
   });
 
   Meteor.startup(function(){
-    React.render(<Home />, document.getElementById("render-target"));
+    React.render(<Routes />, document.getElementById("render-target"));
   });
 }
 

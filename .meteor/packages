@@ -34,7 +34,6 @@ mquandalle:jade
 cfs:standard-packages
 cfs:gridfs
 
-msavin:mongol
 react
 
 meteorhacks:npm
@@ -42,3 +41,4 @@ meteorhacks:cluster
 
 npm-container
 kadira:flow-router
+cosmos:browserify
